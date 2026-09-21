@@ -1,0 +1,1502 @@
+[
+  {
+    "number": 217,
+    "title": "Contains Duplicate",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Easy",
+    "file": "arrays-hashing/P0217ContainsDuplicate.kt",
+    "main": "neetcode.p0217.P0217ContainsDuplicateKt",
+    "tests": 4,
+    "url": "https://leetcode.com/problems/contains-duplicate/"
+  },
+  {
+    "number": 242,
+    "title": "Valid Anagram",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Easy",
+    "file": "arrays-hashing/P0242ValidAnagram.kt",
+    "main": "neetcode.p0242.P0242ValidAnagramKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/valid-anagram/"
+  },
+  {
+    "number": 1,
+    "title": "Two Sum",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Easy",
+    "file": "arrays-hashing/P0001TwoSum.kt",
+    "main": "neetcode.p0001.P0001TwoSumKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/two-sum/"
+  },
+  {
+    "number": 49,
+    "title": "Group Anagrams",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Medium",
+    "file": "arrays-hashing/P0049GroupAnagrams.kt",
+    "main": "neetcode.p0049.P0049GroupAnagramsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/group-anagrams/"
+  },
+  {
+    "number": 347,
+    "title": "Top K Frequent Elements",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Medium",
+    "file": "arrays-hashing/P0347TopKFrequentElements.kt",
+    "main": "neetcode.p0347.P0347TopKFrequentElementsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/top-k-frequent-elements/"
+  },
+  {
+    "number": 238,
+    "title": "Product of Array Except Self",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Medium",
+    "file": "arrays-hashing/P0238ProductOfArrayExceptSelf.kt",
+    "main": "neetcode.p0238.P0238ProductOfArrayExceptSelfKt",
+    "tests": 4,
+    "url": "https://leetcode.com/problems/product-of-array-except-self/"
+  },
+  {
+    "number": 36,
+    "title": "Valid Sudoku",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Medium",
+    "file": "arrays-hashing/P0036ValidSudoku.kt",
+    "main": "neetcode.p0036.P0036ValidSudokuKt",
+    "tests": 4,
+    "url": "https://leetcode.com/problems/valid-sudoku/"
+  },
+  {
+    "number": 271,
+    "title": "Encode and Decode Strings",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Medium",
+    "file": "arrays-hashing/P0271EncodeAndDecodeStrings.kt",
+    "main": "neetcode.p0271.P0271EncodeAndDecodeStringsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/encode-and-decode-strings/"
+  },
+  {
+    "number": 128,
+    "title": "Longest Consecutive Sequence",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Medium",
+    "file": "arrays-hashing/P0128LongestConsecutiveSequence.kt",
+    "main": "neetcode.p0128.P0128LongestConsecutiveSequenceKt",
+    "tests": 4,
+    "url": "https://leetcode.com/problems/longest-consecutive-sequence/"
+  },
+  {
+    "number": 125,
+    "title": "Valid Palindrome",
+    "topic": "Two Pointers",
+    "difficulty": "Easy",
+    "file": "two-pointers/P0125ValidPalindrome.kt",
+    "main": "neetcode.p0125.P0125ValidPalindromeKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/valid-palindrome/"
+  },
+  {
+    "number": 167,
+    "title": "Two Sum II Input Array Is Sorted",
+    "topic": "Two Pointers",
+    "difficulty": "Medium",
+    "file": "two-pointers/P0167TwoSumIiInputArrayIsSorted.kt",
+    "main": "neetcode.p0167.P0167TwoSumIiInputArrayIsSortedKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/"
+  },
+  {
+    "number": 15,
+    "title": "3Sum",
+    "topic": "Two Pointers",
+    "difficulty": "Medium",
+    "file": "two-pointers/P00153Sum.kt",
+    "main": "neetcode.p0015.P00153SumKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/3sum/"
+  },
+  {
+    "number": 11,
+    "title": "Container With Most Water",
+    "topic": "Two Pointers",
+    "difficulty": "Medium",
+    "file": "two-pointers/P0011ContainerWithMostWater.kt",
+    "main": "neetcode.p0011.P0011ContainerWithMostWaterKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/container-with-most-water/"
+  },
+  {
+    "number": 42,
+    "title": "Trapping Rain Water",
+    "topic": "Two Pointers",
+    "difficulty": "Hard",
+    "file": "two-pointers/P0042TrappingRainWater.kt",
+    "main": "neetcode.p0042.P0042TrappingRainWaterKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/trapping-rain-water/"
+  },
+  {
+    "number": 121,
+    "title": "Best Time to Buy And Sell Stock",
+    "topic": "Sliding Window",
+    "difficulty": "Easy",
+    "file": "sliding-window/P0121BestTimeToBuyAndSellStock.kt",
+    "main": "neetcode.p0121.P0121BestTimeToBuyAndSellStockKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+  },
+  {
+    "number": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "topic": "Sliding Window",
+    "difficulty": "Medium",
+    "file": "sliding-window/P0003LongestSubstringWithoutRepeatingCharacters.kt",
+    "main": "neetcode.p0003.P0003LongestSubstringWithoutRepeatingCharactersKt",
+    "tests": 4,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+  },
+  {
+    "number": 424,
+    "title": "Longest Repeating Character Replacement",
+    "topic": "Sliding Window",
+    "difficulty": "Medium",
+    "file": "sliding-window/P0424LongestRepeatingCharacterReplacement.kt",
+    "main": "neetcode.p0424.P0424LongestRepeatingCharacterReplacementKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/longest-repeating-character-replacement/"
+  },
+  {
+    "number": 567,
+    "title": "Permutation In String",
+    "topic": "Sliding Window",
+    "difficulty": "Medium",
+    "file": "sliding-window/P0567PermutationInString.kt",
+    "main": "neetcode.p0567.P0567PermutationInStringKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/permutation-in-string/"
+  },
+  {
+    "number": 76,
+    "title": "Minimum Window Substring",
+    "topic": "Sliding Window",
+    "difficulty": "Hard",
+    "file": "sliding-window/P0076MinimumWindowSubstring.kt",
+    "main": "neetcode.p0076.P0076MinimumWindowSubstringKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/minimum-window-substring/"
+  },
+  {
+    "number": 239,
+    "title": "Sliding Window Maximum",
+    "topic": "Sliding Window",
+    "difficulty": "Hard",
+    "file": "sliding-window/P0239SlidingWindowMaximum.kt",
+    "main": "neetcode.p0239.P0239SlidingWindowMaximumKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/sliding-window-maximum/"
+  },
+  {
+    "number": 20,
+    "title": "Valid Parentheses",
+    "topic": "Stack",
+    "difficulty": "Easy",
+    "file": "stack/P0020ValidParentheses.kt",
+    "main": "neetcode.p0020.P0020ValidParenthesesKt",
+    "tests": 4,
+    "url": "https://leetcode.com/problems/valid-parentheses/"
+  },
+  {
+    "number": 155,
+    "title": "Min Stack",
+    "topic": "Stack",
+    "difficulty": "Medium",
+    "file": "stack/P0155MinStack.kt",
+    "main": "neetcode.p0155.P0155MinStackKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/min-stack/"
+  },
+  {
+    "number": 150,
+    "title": "Evaluate Reverse Polish Notation",
+    "topic": "Stack",
+    "difficulty": "Medium",
+    "file": "stack/P0150EvaluateReversePolishNotation.kt",
+    "main": "neetcode.p0150.P0150EvaluateReversePolishNotationKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/"
+  },
+  {
+    "number": 22,
+    "title": "Generate Parentheses",
+    "topic": "Stack",
+    "difficulty": "Medium",
+    "file": "stack/P0022GenerateParentheses.kt",
+    "main": "neetcode.p0022.P0022GenerateParenthesesKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/generate-parentheses/"
+  },
+  {
+    "number": 739,
+    "title": "Daily Temperatures",
+    "topic": "Stack",
+    "difficulty": "Medium",
+    "file": "stack/P0739DailyTemperatures.kt",
+    "main": "neetcode.p0739.P0739DailyTemperaturesKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/daily-temperatures/"
+  },
+  {
+    "number": 853,
+    "title": "Car Fleet",
+    "topic": "Stack",
+    "difficulty": "Medium",
+    "file": "stack/P0853CarFleet.kt",
+    "main": "neetcode.p0853.P0853CarFleetKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/car-fleet/"
+  },
+  {
+    "number": 84,
+    "title": "Largest Rectangle In Histogram",
+    "topic": "Stack",
+    "difficulty": "Hard",
+    "file": "stack/P0084LargestRectangleInHistogram.kt",
+    "main": "neetcode.p0084.P0084LargestRectangleInHistogramKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+  },
+  {
+    "number": 704,
+    "title": "Binary Search",
+    "topic": "Binary Search",
+    "difficulty": "Easy",
+    "file": "binary-search/P0704BinarySearch.kt",
+    "main": "neetcode.p0704.P0704BinarySearchKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/binary-search/"
+  },
+  {
+    "number": 74,
+    "title": "Search a 2D Matrix",
+    "topic": "Binary Search",
+    "difficulty": "Medium",
+    "file": "binary-search/P0074SearchA2DMatrix.kt",
+    "main": "neetcode.p0074.P0074SearchA2DMatrixKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/search-a-2d-matrix/"
+  },
+  {
+    "number": 875,
+    "title": "Koko Eating Bananas",
+    "topic": "Binary Search",
+    "difficulty": "Medium",
+    "file": "binary-search/P0875KokoEatingBananas.kt",
+    "main": "neetcode.p0875.P0875KokoEatingBananasKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/koko-eating-bananas/"
+  },
+  {
+    "number": 153,
+    "title": "Find Minimum In Rotated Sorted Array",
+    "topic": "Binary Search",
+    "difficulty": "Medium",
+    "file": "binary-search/P0153FindMinimumInRotatedSortedArray.kt",
+    "main": "neetcode.p0153.P0153FindMinimumInRotatedSortedArrayKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+  },
+  {
+    "number": 33,
+    "title": "Search In Rotated Sorted Array",
+    "topic": "Binary Search",
+    "difficulty": "Medium",
+    "file": "binary-search/P0033SearchInRotatedSortedArray.kt",
+    "main": "neetcode.p0033.P0033SearchInRotatedSortedArrayKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+  },
+  {
+    "number": 981,
+    "title": "Time Based Key Value Store",
+    "topic": "Binary Search",
+    "difficulty": "Medium",
+    "file": "binary-search/P0981TimeBasedKeyValueStore.kt",
+    "main": "neetcode.p0981.P0981TimeBasedKeyValueStoreKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/time-based-key-value-store/"
+  },
+  {
+    "number": 4,
+    "title": "Median of Two Sorted Arrays",
+    "topic": "Binary Search",
+    "difficulty": "Hard",
+    "file": "binary-search/P0004MedianOfTwoSortedArrays.kt",
+    "main": "neetcode.p0004.P0004MedianOfTwoSortedArraysKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+  },
+  {
+    "number": 206,
+    "title": "Reverse Linked List",
+    "topic": "Linked List",
+    "difficulty": "Easy",
+    "file": "linked-list/P0206ReverseLinkedList.kt",
+    "main": "neetcode.p0206.P0206ReverseLinkedListKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/reverse-linked-list/"
+  },
+  {
+    "number": 21,
+    "title": "Merge Two Sorted Lists",
+    "topic": "Linked List",
+    "difficulty": "Easy",
+    "file": "linked-list/P0021MergeTwoSortedLists.kt",
+    "main": "neetcode.p0021.P0021MergeTwoSortedListsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/merge-two-sorted-lists/"
+  },
+  {
+    "number": 143,
+    "title": "Reorder List",
+    "topic": "Linked List",
+    "difficulty": "Medium",
+    "file": "linked-list/P0143ReorderList.kt",
+    "main": "neetcode.p0143.P0143ReorderListKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/reorder-list/"
+  },
+  {
+    "number": 19,
+    "title": "Remove Nth Node From End of List",
+    "topic": "Linked List",
+    "difficulty": "Medium",
+    "file": "linked-list/P0019RemoveNthNodeFromEndOfList.kt",
+    "main": "neetcode.p0019.P0019RemoveNthNodeFromEndOfListKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+  },
+  {
+    "number": 138,
+    "title": "Copy List With Random Pointer",
+    "topic": "Linked List",
+    "difficulty": "Medium",
+    "file": "linked-list/P0138CopyListWithRandomPointer.kt",
+    "main": "neetcode.p0138.P0138CopyListWithRandomPointerKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/copy-list-with-random-pointer/"
+  },
+  {
+    "number": 2,
+    "title": "Add Two Numbers",
+    "topic": "Linked List",
+    "difficulty": "Medium",
+    "file": "linked-list/P0002AddTwoNumbers.kt",
+    "main": "neetcode.p0002.P0002AddTwoNumbersKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/add-two-numbers/"
+  },
+  {
+    "number": 141,
+    "title": "Linked List Cycle",
+    "topic": "Linked List",
+    "difficulty": "Easy",
+    "file": "linked-list/P0141LinkedListCycle.kt",
+    "main": "neetcode.p0141.P0141LinkedListCycleKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/linked-list-cycle/"
+  },
+  {
+    "number": 287,
+    "title": "Find The Duplicate Number",
+    "topic": "Linked List",
+    "difficulty": "Medium",
+    "file": "linked-list/P0287FindTheDuplicateNumber.kt",
+    "main": "neetcode.p0287.P0287FindTheDuplicateNumberKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/find-the-duplicate-number/"
+  },
+  {
+    "number": 146,
+    "title": "LRU Cache",
+    "topic": "Linked List",
+    "difficulty": "Medium",
+    "file": "linked-list/P0146LruCache.kt",
+    "main": "neetcode.p0146.P0146LruCacheKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/lru-cache/"
+  },
+  {
+    "number": 23,
+    "title": "Merge K Sorted Lists",
+    "topic": "Linked List",
+    "difficulty": "Hard",
+    "file": "linked-list/P0023MergeKSortedLists.kt",
+    "main": "neetcode.p0023.P0023MergeKSortedListsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/merge-k-sorted-lists/"
+  },
+  {
+    "number": 25,
+    "title": "Reverse Nodes In K Group",
+    "topic": "Linked List",
+    "difficulty": "Hard",
+    "file": "linked-list/P0025ReverseNodesInKGroup.kt",
+    "main": "neetcode.p0025.P0025ReverseNodesInKGroupKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/reverse-nodes-in-k-group/"
+  },
+  {
+    "number": 226,
+    "title": "Invert Binary Tree",
+    "topic": "Trees",
+    "difficulty": "Easy",
+    "file": "trees/P0226InvertBinaryTree.kt",
+    "main": "neetcode.p0226.P0226InvertBinaryTreeKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/invert-binary-tree/"
+  },
+  {
+    "number": 104,
+    "title": "Maximum Depth of Binary Tree",
+    "topic": "Trees",
+    "difficulty": "Easy",
+    "file": "trees/P0104MaximumDepthOfBinaryTree.kt",
+    "main": "neetcode.p0104.P0104MaximumDepthOfBinaryTreeKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+  },
+  {
+    "number": 543,
+    "title": "Diameter of Binary Tree",
+    "topic": "Trees",
+    "difficulty": "Easy",
+    "file": "trees/P0543DiameterOfBinaryTree.kt",
+    "main": "neetcode.p0543.P0543DiameterOfBinaryTreeKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/diameter-of-binary-tree/"
+  },
+  {
+    "number": 110,
+    "title": "Balanced Binary Tree",
+    "topic": "Trees",
+    "difficulty": "Easy",
+    "file": "trees/P0110BalancedBinaryTree.kt",
+    "main": "neetcode.p0110.P0110BalancedBinaryTreeKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/balanced-binary-tree/"
+  },
+  {
+    "number": 100,
+    "title": "Same Tree",
+    "topic": "Trees",
+    "difficulty": "Easy",
+    "file": "trees/P0100SameTree.kt",
+    "main": "neetcode.p0100.P0100SameTreeKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/same-tree/"
+  },
+  {
+    "number": 572,
+    "title": "Subtree of Another Tree",
+    "topic": "Trees",
+    "difficulty": "Easy",
+    "file": "trees/P0572SubtreeOfAnotherTree.kt",
+    "main": "neetcode.p0572.P0572SubtreeOfAnotherTreeKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/subtree-of-another-tree/"
+  },
+  {
+    "number": 235,
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "topic": "Trees",
+    "difficulty": "Medium",
+    "file": "trees/P0235LowestCommonAncestorOfABinarySearchTree.kt",
+    "main": "neetcode.p0235.P0235LowestCommonAncestorOfABinarySearchTreeKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+  },
+  {
+    "number": 102,
+    "title": "Binary Tree Level Order Traversal",
+    "topic": "Trees",
+    "difficulty": "Medium",
+    "file": "trees/P0102BinaryTreeLevelOrderTraversal.kt",
+    "main": "neetcode.p0102.P0102BinaryTreeLevelOrderTraversalKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+  },
+  {
+    "number": 199,
+    "title": "Binary Tree Right Side View",
+    "topic": "Trees",
+    "difficulty": "Medium",
+    "file": "trees/P0199BinaryTreeRightSideView.kt",
+    "main": "neetcode.p0199.P0199BinaryTreeRightSideViewKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/binary-tree-right-side-view/"
+  },
+  {
+    "number": 1448,
+    "title": "Count Good Nodes In Binary Tree",
+    "topic": "Trees",
+    "difficulty": "Medium",
+    "file": "trees/P1448CountGoodNodesInBinaryTree.kt",
+    "main": "neetcode.p1448.P1448CountGoodNodesInBinaryTreeKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/"
+  },
+  {
+    "number": 98,
+    "title": "Validate Binary Search Tree",
+    "topic": "Trees",
+    "difficulty": "Medium",
+    "file": "trees/P0098ValidateBinarySearchTree.kt",
+    "main": "neetcode.p0098.P0098ValidateBinarySearchTreeKt",
+    "tests": 4,
+    "url": "https://leetcode.com/problems/validate-binary-search-tree/"
+  },
+  {
+    "number": 230,
+    "title": "Kth Smallest Element In a Bst",
+    "topic": "Trees",
+    "difficulty": "Medium",
+    "file": "trees/P0230KthSmallestElementInABst.kt",
+    "main": "neetcode.p0230.P0230KthSmallestElementInABstKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+  },
+  {
+    "number": 105,
+    "title": "Construct Binary Tree From Preorder And Inorder Traversal",
+    "topic": "Trees",
+    "difficulty": "Medium",
+    "file": "trees/P0105ConstructBinaryTreeFromPreorderAndInorderTraversal.kt",
+    "main": "neetcode.p0105.P0105ConstructBinaryTreeFromPreorderAndInorderTraversalKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+  },
+  {
+    "number": 124,
+    "title": "Binary Tree Maximum Path Sum",
+    "topic": "Trees",
+    "difficulty": "Hard",
+    "file": "trees/P0124BinaryTreeMaximumPathSum.kt",
+    "main": "neetcode.p0124.P0124BinaryTreeMaximumPathSumKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
+  },
+  {
+    "number": 297,
+    "title": "Serialize And Deserialize Binary Tree",
+    "topic": "Trees",
+    "difficulty": "Hard",
+    "file": "trees/P0297SerializeAndDeserializeBinaryTree.kt",
+    "main": "neetcode.p0297.P0297SerializeAndDeserializeBinaryTreeKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/"
+  },
+  {
+    "number": 208,
+    "title": "Implement Trie Prefix Tree",
+    "topic": "Tries",
+    "difficulty": "Medium",
+    "file": "tries/P0208ImplementTriePrefixTree.kt",
+    "main": "neetcode.p0208.P0208ImplementTriePrefixTreeKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+  },
+  {
+    "number": 211,
+    "title": "Design Add And Search Words Data Structure",
+    "topic": "Tries",
+    "difficulty": "Medium",
+    "file": "tries/P0211DesignAddAndSearchWordsDataStructure.kt",
+    "main": "neetcode.p0211.P0211DesignAddAndSearchWordsDataStructureKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure/"
+  },
+  {
+    "number": 212,
+    "title": "Word Search II",
+    "topic": "Tries",
+    "difficulty": "Hard",
+    "file": "tries/P0212WordSearchIi.kt",
+    "main": "neetcode.p0212.P0212WordSearchIiKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/word-search-ii/"
+  },
+  {
+    "number": 703,
+    "title": "Kth Largest Element In a Stream",
+    "topic": "Heap / Priority Queue",
+    "difficulty": "Easy",
+    "file": "heap-priority-queue/P0703KthLargestElementInAStream.kt",
+    "main": "neetcode.p0703.P0703KthLargestElementInAStreamKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/"
+  },
+  {
+    "number": 1046,
+    "title": "Last Stone Weight",
+    "topic": "Heap / Priority Queue",
+    "difficulty": "Easy",
+    "file": "heap-priority-queue/P1046LastStoneWeight.kt",
+    "main": "neetcode.p1046.P1046LastStoneWeightKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/last-stone-weight/"
+  },
+  {
+    "number": 973,
+    "title": "K Closest Points to Origin",
+    "topic": "Heap / Priority Queue",
+    "difficulty": "Medium",
+    "file": "heap-priority-queue/P0973KClosestPointsToOrigin.kt",
+    "main": "neetcode.p0973.P0973KClosestPointsToOriginKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/k-closest-points-to-origin/"
+  },
+  {
+    "number": 215,
+    "title": "Kth Largest Element In An Array",
+    "topic": "Heap / Priority Queue",
+    "difficulty": "Medium",
+    "file": "heap-priority-queue/P0215KthLargestElementInAnArray.kt",
+    "main": "neetcode.p0215.P0215KthLargestElementInAnArrayKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+  },
+  {
+    "number": 621,
+    "title": "Task Scheduler",
+    "topic": "Heap / Priority Queue",
+    "difficulty": "Medium",
+    "file": "heap-priority-queue/P0621TaskScheduler.kt",
+    "main": "neetcode.p0621.P0621TaskSchedulerKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/task-scheduler/"
+  },
+  {
+    "number": 355,
+    "title": "Design Twitter",
+    "topic": "Heap / Priority Queue",
+    "difficulty": "Medium",
+    "file": "heap-priority-queue/P0355DesignTwitter.kt",
+    "main": "neetcode.p0355.P0355DesignTwitterKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/design-twitter/"
+  },
+  {
+    "number": 295,
+    "title": "Find Median From Data Stream",
+    "topic": "Heap / Priority Queue",
+    "difficulty": "Hard",
+    "file": "heap-priority-queue/P0295FindMedianFromDataStream.kt",
+    "main": "neetcode.p0295.P0295FindMedianFromDataStreamKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/find-median-from-data-stream/"
+  },
+  {
+    "number": 78,
+    "title": "Subsets",
+    "topic": "Backtracking",
+    "difficulty": "Medium",
+    "file": "backtracking/P0078Subsets.kt",
+    "main": "neetcode.p0078.P0078SubsetsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/subsets/"
+  },
+  {
+    "number": 39,
+    "title": "Combination Sum",
+    "topic": "Backtracking",
+    "difficulty": "Medium",
+    "file": "backtracking/P0039CombinationSum.kt",
+    "main": "neetcode.p0039.P0039CombinationSumKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/combination-sum/"
+  },
+  {
+    "number": 46,
+    "title": "Permutations",
+    "topic": "Backtracking",
+    "difficulty": "Medium",
+    "file": "backtracking/P0046Permutations.kt",
+    "main": "neetcode.p0046.P0046PermutationsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/permutations/"
+  },
+  {
+    "number": 90,
+    "title": "Subsets II",
+    "topic": "Backtracking",
+    "difficulty": "Medium",
+    "file": "backtracking/P0090SubsetsIi.kt",
+    "main": "neetcode.p0090.P0090SubsetsIiKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/subsets-ii/"
+  },
+  {
+    "number": 40,
+    "title": "Combination Sum II",
+    "topic": "Backtracking",
+    "difficulty": "Medium",
+    "file": "backtracking/P0040CombinationSumIi.kt",
+    "main": "neetcode.p0040.P0040CombinationSumIiKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/combination-sum-ii/"
+  },
+  {
+    "number": 79,
+    "title": "Word Search",
+    "topic": "Backtracking",
+    "difficulty": "Medium",
+    "file": "backtracking/P0079WordSearch.kt",
+    "main": "neetcode.p0079.P0079WordSearchKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/word-search/"
+  },
+  {
+    "number": 131,
+    "title": "Palindrome Partitioning",
+    "topic": "Backtracking",
+    "difficulty": "Medium",
+    "file": "backtracking/P0131PalindromePartitioning.kt",
+    "main": "neetcode.p0131.P0131PalindromePartitioningKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/palindrome-partitioning/"
+  },
+  {
+    "number": 17,
+    "title": "Letter Combinations of a Phone Number",
+    "topic": "Backtracking",
+    "difficulty": "Medium",
+    "file": "backtracking/P0017LetterCombinationsOfAPhoneNumber.kt",
+    "main": "neetcode.p0017.P0017LetterCombinationsOfAPhoneNumberKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+  },
+  {
+    "number": 51,
+    "title": "N Queens",
+    "topic": "Backtracking",
+    "difficulty": "Hard",
+    "file": "backtracking/P0051NQueens.kt",
+    "main": "neetcode.p0051.P0051NQueensKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/n-queens/"
+  },
+  {
+    "number": 200,
+    "title": "Number of Islands",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "file": "graphs/P0200NumberOfIslands.kt",
+    "main": "neetcode.p0200.P0200NumberOfIslandsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/number-of-islands/"
+  },
+  {
+    "number": 133,
+    "title": "Clone Graph",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "file": "graphs/P0133CloneGraph.kt",
+    "main": "neetcode.p0133.P0133CloneGraphKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/clone-graph/"
+  },
+  {
+    "number": 695,
+    "title": "Max Area of Island",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "file": "graphs/P0695MaxAreaOfIsland.kt",
+    "main": "neetcode.p0695.P0695MaxAreaOfIslandKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/max-area-of-island/"
+  },
+  {
+    "number": 417,
+    "title": "Pacific Atlantic Water Flow",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "file": "graphs/P0417PacificAtlanticWaterFlow.kt",
+    "main": "neetcode.p0417.P0417PacificAtlanticWaterFlowKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/pacific-atlantic-water-flow/"
+  },
+  {
+    "number": 130,
+    "title": "Surrounded Regions",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "file": "graphs/P0130SurroundedRegions.kt",
+    "main": "neetcode.p0130.P0130SurroundedRegionsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/surrounded-regions/"
+  },
+  {
+    "number": 994,
+    "title": "Rotting Oranges",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "file": "graphs/P0994RottingOranges.kt",
+    "main": "neetcode.p0994.P0994RottingOrangesKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/rotting-oranges/"
+  },
+  {
+    "number": 286,
+    "title": "Walls And Gates",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "file": "graphs/P0286WallsAndGates.kt",
+    "main": "neetcode.p0286.P0286WallsAndGatesKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/walls-and-gates/"
+  },
+  {
+    "number": 207,
+    "title": "Course Schedule",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "file": "graphs/P0207CourseSchedule.kt",
+    "main": "neetcode.p0207.P0207CourseScheduleKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/course-schedule/"
+  },
+  {
+    "number": 210,
+    "title": "Course Schedule II",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "file": "graphs/P0210CourseScheduleIi.kt",
+    "main": "neetcode.p0210.P0210CourseScheduleIiKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/course-schedule-ii/"
+  },
+  {
+    "number": 684,
+    "title": "Redundant Connection",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "file": "graphs/P0684RedundantConnection.kt",
+    "main": "neetcode.p0684.P0684RedundantConnectionKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/redundant-connection/"
+  },
+  {
+    "number": 323,
+    "title": "Number of Connected Components In An Undirected Graph",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "file": "graphs/P0323NumberOfConnectedComponentsInAnUndirectedGraph.kt",
+    "main": "neetcode.p0323.P0323NumberOfConnectedComponentsInAnUndirectedGraphKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/"
+  },
+  {
+    "number": 261,
+    "title": "Graph Valid Tree",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "file": "graphs/P0261GraphValidTree.kt",
+    "main": "neetcode.p0261.P0261GraphValidTreeKt",
+    "tests": 4,
+    "url": "https://leetcode.com/problems/graph-valid-tree/"
+  },
+  {
+    "number": 127,
+    "title": "Word Ladder",
+    "topic": "Graphs",
+    "difficulty": "Hard",
+    "file": "graphs/P0127WordLadder.kt",
+    "main": "neetcode.p0127.P0127WordLadderKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/word-ladder/"
+  },
+  {
+    "number": 332,
+    "title": "Reconstruct Itinerary",
+    "topic": "Advanced Graphs",
+    "difficulty": "Hard",
+    "file": "advanced-graphs/P0332ReconstructItinerary.kt",
+    "main": "neetcode.p0332.P0332ReconstructItineraryKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/reconstruct-itinerary/"
+  },
+  {
+    "number": 1584,
+    "title": "Min Cost to Connect All Points",
+    "topic": "Advanced Graphs",
+    "difficulty": "Medium",
+    "file": "advanced-graphs/P1584MinCostToConnectAllPoints.kt",
+    "main": "neetcode.p1584.P1584MinCostToConnectAllPointsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/min-cost-to-connect-all-points/"
+  },
+  {
+    "number": 743,
+    "title": "Network Delay Time",
+    "topic": "Advanced Graphs",
+    "difficulty": "Medium",
+    "file": "advanced-graphs/P0743NetworkDelayTime.kt",
+    "main": "neetcode.p0743.P0743NetworkDelayTimeKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/network-delay-time/"
+  },
+  {
+    "number": 778,
+    "title": "Swim In Rising Water",
+    "topic": "Advanced Graphs",
+    "difficulty": "Hard",
+    "file": "advanced-graphs/P0778SwimInRisingWater.kt",
+    "main": "neetcode.p0778.P0778SwimInRisingWaterKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/swim-in-rising-water/"
+  },
+  {
+    "number": 269,
+    "title": "Alien Dictionary",
+    "topic": "Advanced Graphs",
+    "difficulty": "Hard",
+    "file": "advanced-graphs/P0269AlienDictionary.kt",
+    "main": "neetcode.p0269.P0269AlienDictionaryKt",
+    "tests": 4,
+    "url": "https://leetcode.com/problems/alien-dictionary/"
+  },
+  {
+    "number": 787,
+    "title": "Cheapest Flights Within K Stops",
+    "topic": "Advanced Graphs",
+    "difficulty": "Medium",
+    "file": "advanced-graphs/P0787CheapestFlightsWithinKStops.kt",
+    "main": "neetcode.p0787.P0787CheapestFlightsWithinKStopsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/cheapest-flights-within-k-stops/"
+  },
+  {
+    "number": 70,
+    "title": "Climbing Stairs",
+    "topic": "1-D Dynamic Programming",
+    "difficulty": "Easy",
+    "file": "1-d-dynamic-programming/P0070ClimbingStairs.kt",
+    "main": "neetcode.p0070.P0070ClimbingStairsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/climbing-stairs/"
+  },
+  {
+    "number": 746,
+    "title": "Min Cost Climbing Stairs",
+    "topic": "1-D Dynamic Programming",
+    "difficulty": "Easy",
+    "file": "1-d-dynamic-programming/P0746MinCostClimbingStairs.kt",
+    "main": "neetcode.p0746.P0746MinCostClimbingStairsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/min-cost-climbing-stairs/"
+  },
+  {
+    "number": 198,
+    "title": "House Robber",
+    "topic": "1-D Dynamic Programming",
+    "difficulty": "Medium",
+    "file": "1-d-dynamic-programming/P0198HouseRobber.kt",
+    "main": "neetcode.p0198.P0198HouseRobberKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/house-robber/"
+  },
+  {
+    "number": 213,
+    "title": "House Robber II",
+    "topic": "1-D Dynamic Programming",
+    "difficulty": "Medium",
+    "file": "1-d-dynamic-programming/P0213HouseRobberIi.kt",
+    "main": "neetcode.p0213.P0213HouseRobberIiKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/house-robber-ii/"
+  },
+  {
+    "number": 5,
+    "title": "Longest Palindromic Substring",
+    "topic": "1-D Dynamic Programming",
+    "difficulty": "Medium",
+    "file": "1-d-dynamic-programming/P0005LongestPalindromicSubstring.kt",
+    "main": "neetcode.p0005.P0005LongestPalindromicSubstringKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/longest-palindromic-substring/"
+  },
+  {
+    "number": 647,
+    "title": "Palindromic Substrings",
+    "topic": "1-D Dynamic Programming",
+    "difficulty": "Medium",
+    "file": "1-d-dynamic-programming/P0647PalindromicSubstrings.kt",
+    "main": "neetcode.p0647.P0647PalindromicSubstringsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/palindromic-substrings/"
+  },
+  {
+    "number": 91,
+    "title": "Decode Ways",
+    "topic": "1-D Dynamic Programming",
+    "difficulty": "Medium",
+    "file": "1-d-dynamic-programming/P0091DecodeWays.kt",
+    "main": "neetcode.p0091.P0091DecodeWaysKt",
+    "tests": 4,
+    "url": "https://leetcode.com/problems/decode-ways/"
+  },
+  {
+    "number": 322,
+    "title": "Coin Change",
+    "topic": "1-D Dynamic Programming",
+    "difficulty": "Medium",
+    "file": "1-d-dynamic-programming/P0322CoinChange.kt",
+    "main": "neetcode.p0322.P0322CoinChangeKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/coin-change/"
+  },
+  {
+    "number": 152,
+    "title": "Maximum Product Subarray",
+    "topic": "1-D Dynamic Programming",
+    "difficulty": "Medium",
+    "file": "1-d-dynamic-programming/P0152MaximumProductSubarray.kt",
+    "main": "neetcode.p0152.P0152MaximumProductSubarrayKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/maximum-product-subarray/"
+  },
+  {
+    "number": 139,
+    "title": "Word Break",
+    "topic": "1-D Dynamic Programming",
+    "difficulty": "Medium",
+    "file": "1-d-dynamic-programming/P0139WordBreak.kt",
+    "main": "neetcode.p0139.P0139WordBreakKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/word-break/"
+  },
+  {
+    "number": 300,
+    "title": "Longest Increasing Subsequence",
+    "topic": "1-D Dynamic Programming",
+    "difficulty": "Medium",
+    "file": "1-d-dynamic-programming/P0300LongestIncreasingSubsequence.kt",
+    "main": "neetcode.p0300.P0300LongestIncreasingSubsequenceKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence/"
+  },
+  {
+    "number": 416,
+    "title": "Partition Equal Subset Sum",
+    "topic": "1-D Dynamic Programming",
+    "difficulty": "Medium",
+    "file": "1-d-dynamic-programming/P0416PartitionEqualSubsetSum.kt",
+    "main": "neetcode.p0416.P0416PartitionEqualSubsetSumKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/partition-equal-subset-sum/"
+  },
+  {
+    "number": 62,
+    "title": "Unique Paths",
+    "topic": "2-D Dynamic Programming",
+    "difficulty": "Medium",
+    "file": "2-d-dynamic-programming/P0062UniquePaths.kt",
+    "main": "neetcode.p0062.P0062UniquePathsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/unique-paths/"
+  },
+  {
+    "number": 1143,
+    "title": "Longest Common Subsequence",
+    "topic": "2-D Dynamic Programming",
+    "difficulty": "Medium",
+    "file": "2-d-dynamic-programming/P1143LongestCommonSubsequence.kt",
+    "main": "neetcode.p1143.P1143LongestCommonSubsequenceKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/longest-common-subsequence/"
+  },
+  {
+    "number": 309,
+    "title": "Best Time to Buy And Sell Stock With Cooldown",
+    "topic": "2-D Dynamic Programming",
+    "difficulty": "Medium",
+    "file": "2-d-dynamic-programming/P0309BestTimeToBuyAndSellStockWithCooldown.kt",
+    "main": "neetcode.p0309.P0309BestTimeToBuyAndSellStockWithCooldownKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/"
+  },
+  {
+    "number": 518,
+    "title": "Coin Change II",
+    "topic": "2-D Dynamic Programming",
+    "difficulty": "Medium",
+    "file": "2-d-dynamic-programming/P0518CoinChangeIi.kt",
+    "main": "neetcode.p0518.P0518CoinChangeIiKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/coin-change-ii/"
+  },
+  {
+    "number": 494,
+    "title": "Target Sum",
+    "topic": "2-D Dynamic Programming",
+    "difficulty": "Medium",
+    "file": "2-d-dynamic-programming/P0494TargetSum.kt",
+    "main": "neetcode.p0494.P0494TargetSumKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/target-sum/"
+  },
+  {
+    "number": 97,
+    "title": "Interleaving String",
+    "topic": "2-D Dynamic Programming",
+    "difficulty": "Medium",
+    "file": "2-d-dynamic-programming/P0097InterleavingString.kt",
+    "main": "neetcode.p0097.P0097InterleavingStringKt",
+    "tests": 4,
+    "url": "https://leetcode.com/problems/interleaving-string/"
+  },
+  {
+    "number": 329,
+    "title": "Longest Increasing Path In a Matrix",
+    "topic": "2-D Dynamic Programming",
+    "difficulty": "Hard",
+    "file": "2-d-dynamic-programming/P0329LongestIncreasingPathInAMatrix.kt",
+    "main": "neetcode.p0329.P0329LongestIncreasingPathInAMatrixKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/"
+  },
+  {
+    "number": 115,
+    "title": "Distinct Subsequences",
+    "topic": "2-D Dynamic Programming",
+    "difficulty": "Hard",
+    "file": "2-d-dynamic-programming/P0115DistinctSubsequences.kt",
+    "main": "neetcode.p0115.P0115DistinctSubsequencesKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/distinct-subsequences/"
+  },
+  {
+    "number": 72,
+    "title": "Edit Distance",
+    "topic": "2-D Dynamic Programming",
+    "difficulty": "Medium",
+    "file": "2-d-dynamic-programming/P0072EditDistance.kt",
+    "main": "neetcode.p0072.P0072EditDistanceKt",
+    "tests": 4,
+    "url": "https://leetcode.com/problems/edit-distance/"
+  },
+  {
+    "number": 312,
+    "title": "Burst Balloons",
+    "topic": "2-D Dynamic Programming",
+    "difficulty": "Hard",
+    "file": "2-d-dynamic-programming/P0312BurstBalloons.kt",
+    "main": "neetcode.p0312.P0312BurstBalloonsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/burst-balloons/"
+  },
+  {
+    "number": 10,
+    "title": "Regular Expression Matching",
+    "topic": "2-D Dynamic Programming",
+    "difficulty": "Hard",
+    "file": "2-d-dynamic-programming/P0010RegularExpressionMatching.kt",
+    "main": "neetcode.p0010.P0010RegularExpressionMatchingKt",
+    "tests": 4,
+    "url": "https://leetcode.com/problems/regular-expression-matching/"
+  },
+  {
+    "number": 53,
+    "title": "Maximum Subarray",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "file": "greedy/P0053MaximumSubarray.kt",
+    "main": "neetcode.p0053.P0053MaximumSubarrayKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/maximum-subarray/"
+  },
+  {
+    "number": 55,
+    "title": "Jump Game",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "file": "greedy/P0055JumpGame.kt",
+    "main": "neetcode.p0055.P0055JumpGameKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/jump-game/"
+  },
+  {
+    "number": 45,
+    "title": "Jump Game II",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "file": "greedy/P0045JumpGameIi.kt",
+    "main": "neetcode.p0045.P0045JumpGameIiKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/jump-game-ii/"
+  },
+  {
+    "number": 134,
+    "title": "Gas Station",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "file": "greedy/P0134GasStation.kt",
+    "main": "neetcode.p0134.P0134GasStationKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/gas-station/"
+  },
+  {
+    "number": 846,
+    "title": "Hand of Straights",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "file": "greedy/P0846HandOfStraights.kt",
+    "main": "neetcode.p0846.P0846HandOfStraightsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/hand-of-straights/"
+  },
+  {
+    "number": 1899,
+    "title": "Merge Triplets to Form Target Triplet",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "file": "greedy/P1899MergeTripletsToFormTargetTriplet.kt",
+    "main": "neetcode.p1899.P1899MergeTripletsToFormTargetTripletKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/merge-triplets-to-form-target-triplet/"
+  },
+  {
+    "number": 763,
+    "title": "Partition Labels",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "file": "greedy/P0763PartitionLabels.kt",
+    "main": "neetcode.p0763.P0763PartitionLabelsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/partition-labels/"
+  },
+  {
+    "number": 678,
+    "title": "Valid Parenthesis String",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "file": "greedy/P0678ValidParenthesisString.kt",
+    "main": "neetcode.p0678.P0678ValidParenthesisStringKt",
+    "tests": 4,
+    "url": "https://leetcode.com/problems/valid-parenthesis-string/"
+  },
+  {
+    "number": 57,
+    "title": "Insert Interval",
+    "topic": "Intervals",
+    "difficulty": "Medium",
+    "file": "intervals/P0057InsertInterval.kt",
+    "main": "neetcode.p0057.P0057InsertIntervalKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/insert-interval/"
+  },
+  {
+    "number": 56,
+    "title": "Merge Intervals",
+    "topic": "Intervals",
+    "difficulty": "Medium",
+    "file": "intervals/P0056MergeIntervals.kt",
+    "main": "neetcode.p0056.P0056MergeIntervalsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/merge-intervals/"
+  },
+  {
+    "number": 435,
+    "title": "Non Overlapping Intervals",
+    "topic": "Intervals",
+    "difficulty": "Medium",
+    "file": "intervals/P0435NonOverlappingIntervals.kt",
+    "main": "neetcode.p0435.P0435NonOverlappingIntervalsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/non-overlapping-intervals/"
+  },
+  {
+    "number": 252,
+    "title": "Meeting Rooms",
+    "topic": "Intervals",
+    "difficulty": "Easy",
+    "file": "intervals/P0252MeetingRooms.kt",
+    "main": "neetcode.p0252.P0252MeetingRoomsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/meeting-rooms/"
+  },
+  {
+    "number": 253,
+    "title": "Meeting Rooms II",
+    "topic": "Intervals",
+    "difficulty": "Medium",
+    "file": "intervals/P0253MeetingRoomsIi.kt",
+    "main": "neetcode.p0253.P0253MeetingRoomsIiKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/meeting-rooms-ii/"
+  },
+  {
+    "number": 1851,
+    "title": "Minimum Interval to Include Each Query",
+    "topic": "Intervals",
+    "difficulty": "Hard",
+    "file": "intervals/P1851MinimumIntervalToIncludeEachQuery.kt",
+    "main": "neetcode.p1851.P1851MinimumIntervalToIncludeEachQueryKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/minimum-interval-to-include-each-query/"
+  },
+  {
+    "number": 48,
+    "title": "Rotate Image",
+    "topic": "Math & Geometry",
+    "difficulty": "Medium",
+    "file": "math-geometry/P0048RotateImage.kt",
+    "main": "neetcode.p0048.P0048RotateImageKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/rotate-image/"
+  },
+  {
+    "number": 54,
+    "title": "Spiral Matrix",
+    "topic": "Math & Geometry",
+    "difficulty": "Medium",
+    "file": "math-geometry/P0054SpiralMatrix.kt",
+    "main": "neetcode.p0054.P0054SpiralMatrixKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/spiral-matrix/"
+  },
+  {
+    "number": 73,
+    "title": "Set Matrix Zeroes",
+    "topic": "Math & Geometry",
+    "difficulty": "Medium",
+    "file": "math-geometry/P0073SetMatrixZeroes.kt",
+    "main": "neetcode.p0073.P0073SetMatrixZeroesKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/set-matrix-zeroes/"
+  },
+  {
+    "number": 202,
+    "title": "Happy Number",
+    "topic": "Math & Geometry",
+    "difficulty": "Easy",
+    "file": "math-geometry/P0202HappyNumber.kt",
+    "main": "neetcode.p0202.P0202HappyNumberKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/happy-number/"
+  },
+  {
+    "number": 66,
+    "title": "Plus One",
+    "topic": "Math & Geometry",
+    "difficulty": "Easy",
+    "file": "math-geometry/P0066PlusOne.kt",
+    "main": "neetcode.p0066.P0066PlusOneKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/plus-one/"
+  },
+  {
+    "number": 50,
+    "title": "Pow(x, n)",
+    "topic": "Math & Geometry",
+    "difficulty": "Medium",
+    "file": "math-geometry/P0050PowxN.kt",
+    "main": "neetcode.p0050.P0050PowxNKt",
+    "tests": 4,
+    "url": "https://leetcode.com/problems/powx-n/"
+  },
+  {
+    "number": 43,
+    "title": "Multiply Strings",
+    "topic": "Math & Geometry",
+    "difficulty": "Medium",
+    "file": "math-geometry/P0043MultiplyStrings.kt",
+    "main": "neetcode.p0043.P0043MultiplyStringsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/multiply-strings/"
+  },
+  {
+    "number": 2013,
+    "title": "Detect Squares",
+    "topic": "Math & Geometry",
+    "difficulty": "Medium",
+    "file": "math-geometry/P2013DetectSquares.kt",
+    "main": "neetcode.p2013.P2013DetectSquaresKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/detect-squares/"
+  },
+  {
+    "number": 136,
+    "title": "Single Number",
+    "topic": "Bit Manipulation",
+    "difficulty": "Easy",
+    "file": "bit-manipulation/P0136SingleNumber.kt",
+    "main": "neetcode.p0136.P0136SingleNumberKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/single-number/"
+  },
+  {
+    "number": 191,
+    "title": "Number of 1 Bits",
+    "topic": "Bit Manipulation",
+    "difficulty": "Easy",
+    "file": "bit-manipulation/P0191NumberOf1Bits.kt",
+    "main": "neetcode.p0191.P0191NumberOf1BitsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/number-of-1-bits/"
+  },
+  {
+    "number": 338,
+    "title": "Counting Bits",
+    "topic": "Bit Manipulation",
+    "difficulty": "Easy",
+    "file": "bit-manipulation/P0338CountingBits.kt",
+    "main": "neetcode.p0338.P0338CountingBitsKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/counting-bits/"
+  },
+  {
+    "number": 190,
+    "title": "Reverse Bits",
+    "topic": "Bit Manipulation",
+    "difficulty": "Easy",
+    "file": "bit-manipulation/P0190ReverseBits.kt",
+    "main": "neetcode.p0190.P0190ReverseBitsKt",
+    "tests": 4,
+    "url": "https://leetcode.com/problems/reverse-bits/"
+  },
+  {
+    "number": 268,
+    "title": "Missing Number",
+    "topic": "Bit Manipulation",
+    "difficulty": "Easy",
+    "file": "bit-manipulation/P0268MissingNumber.kt",
+    "main": "neetcode.p0268.P0268MissingNumberKt",
+    "tests": 3,
+    "url": "https://leetcode.com/problems/missing-number/"
+  },
+  {
+    "number": 371,
+    "title": "Sum of Two Integers",
+    "topic": "Bit Manipulation",
+    "difficulty": "Medium",
+    "file": "bit-manipulation/P0371SumOfTwoIntegers.kt",
+    "main": "neetcode.p0371.P0371SumOfTwoIntegersKt",
+    "tests": 4,
+    "url": "https://leetcode.com/problems/sum-of-two-integers/"
+  },
+  {
+    "number": 7,
+    "title": "Reverse Integer",
+    "topic": "Bit Manipulation",
+    "difficulty": "Medium",
+    "file": "bit-manipulation/P0007ReverseInteger.kt",
+    "main": "neetcode.p0007.P0007ReverseIntegerKt",
+    "tests": 4,
+    "url": "https://leetcode.com/problems/reverse-integer/"
+  }
+]

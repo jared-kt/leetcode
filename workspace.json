@@ -1,0 +1,35 @@
+{
+  "modules": [
+    {
+      "name": "leetcode",
+      "dependencies": [
+        { "type": "sdk", "name": "JDK 21", "kind": "JavaSDK" },
+        { "type": "moduleSource" },
+        { "type": "library", "name": "kotlin-stdlib", "scope": "compile" }
+      ],
+      "contentRoots": [
+        {
+          "path": ".",
+          "excludedPatterns": [".git", ".zed", "__pycache__"],
+          "sourceRoots": [{ "path": ".", "type": "java-source" }]
+        }
+      ]
+    }
+  ],
+  "libraries": [
+    {
+      "name": "kotlin-stdlib",
+      "type": null,
+      "roots": [{ "path": "/opt/homebrew/opt/kotlin/libexec/lib/kotlin-stdlib.jar" }]
+    }
+  ],
+  "sdks": [
+    {
+      "name": "JDK 21",
+      "type": "JavaSDK",
+      "version": "21",
+      "homePath": "/Users/jared/Library/Java/JavaVirtualMachines/jdk-21.0.12.1+1/Contents/Home",
+      "additionalData": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+#!/bin/bash
+set -euo pipefail
+
+if [[ $# -lt 1 || ! -f "$1" ]]; then
+    echo 'Usage: ./run path/to/question.{kt,kts,java,py,cpp,cc,cxx,cp} [program arguments...]' >&2
+    exit 1
+fi
+
+source_file="$(cd "$(dirname "$1")" && pwd)/$(basename "$1")"
+shift
+output_dir="$(mktemp -d)"
+trap 'rm -rf "$output_dir"' EXIT
+
+case "$source_file" in
+    *.kt|*.kts|*.java)
+        export JAVA_HOME="$(/usr/libexec/java_home -v 21)"
+        ;;
+esac
+
+case "$source_file" in
+    *.kt)
+        repo_root="$(cd "$(dirname "$0")" && pwd)"
+        kotlin_sources=("$source_file")
+        case "$source_file" in
+            "$repo_root"/neetcode150/*)
+                support="$repo_root/neetcode150/support/TestSupport.kt"
+                [[ "$source_file" == "$support" ]] || kotlin_sources+=("$support")
+                ;;
+        esac
+        kotlinc "${kotlin_sources[@]}" -jvm-target 21 -include-runtime -d "$output_dir/solution.jar"
+        "$JAVA_HOME/bin/java" -jar "$output_dir/solution.jar" "$@"
+        ;;
+    *.kts) kotlinc -script "$source_file" -- "$@" ;;
+    *.java) "$JAVA_HOME/bin/java" -ea --source 21 "$source_file" "$@" ;;
+    *.py) python3 "$source_file" "$@" ;;
+    *.cpp|*.cc|*.cxx|*.cp)
+        clang++ -x c++ -std=c++20 -Wall -Wextra -g "$source_file" -o "$output_dir/solution"
+        "$output_dir/solution" "$@"
+        ;;
+    *) echo "Unsupported file extension: $source_file" >&2; exit 1 ;;
+esac
